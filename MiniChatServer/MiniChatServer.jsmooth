@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<jsmoothproject>
+<arguments></arguments>
+<classPath>D:\«³µ¾\¾Ç®Õ\³{¥Ò¤j¾Ç\¤j¤T¤U\ºô¸ôµ{¦¡³]­p\´Á¥½±MÃD\MiniChat\Server\MiniChatServer.jar</classPath>
+<currentDirectory>D:\«³µ¾\¾Ç®Õ\³{¥Ò¤j¾Ç\¤j¤T¤U\ºô¸ôµ{¦¡³]­p\´Á¥½±MÃD\MiniChat\Server</currentDirectory>
+<embeddedJar>true</embeddedJar>
+<executableName>MiniChatServer.exe</executableName>
+<iconLocation>D:\«³µ¾\¾Ç®Õ\³{¥Ò¤j¾Ç\¤j¤T¤U\ºô¸ôµ{¦¡³]­p\´Á¥½±MÃD\MiniChat\Server\icon\server_icon.png</iconLocation>
+<initialMemoryHeap>-1</initialMemoryHeap>
+<jarLocation>D:\«³µ¾\¾Ç®Õ\³{¥Ò¤j¾Ç\¤j¤T¤U\ºô¸ôµ{¦¡³]­p\´Á¥½±MÃD\MiniChat\Server\MiniChatServer.jar</jarLocation>
+<mainClassName>com.MiniChat.Server.ChatServer</mainClassName>
+<maximumMemoryHeap>-1</maximumMemoryHeap>
+<maximumVersion></maximumVersion>
+<minimumVersion></minimumVersion>
+<skeletonName>Windowed Wrapper</skeletonName>
+<skeletonProperties>
+<key>Message</key>
+<value>Java has not been found on your computer. Do you want to download it?</value>
+</skeletonProperties>
+<skeletonProperties>
+<key>URL</key>
+<value>http://www.java.com</value>
+</skeletonProperties>
+<skeletonProperties>
+<key>SingleProcess</key>
+<value>0</value>
+</skeletonProperties>
+<skeletonProperties>
+<key>SingleInstance</key>
+<value>0</value>
+</skeletonProperties>
+<skeletonProperties>
+<key>JniSmooth</key>
+<value>0</value>
+</skeletonProperties>
+<skeletonProperties>
+<key>Debug</key>
+<value>0</value>
+</skeletonProperties>
+</jsmoothproject>
